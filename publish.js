@@ -42,7 +42,7 @@ var urls=[
 	'dchstmro.cc',
 ];                                                                                                                  
 
-var JumpPage="https://dongman2.net";
+var JumpPage="https://yyhm1.com";
 
 var newestUrls = [];
 
@@ -55,9 +55,9 @@ var otherUrls = [
 	'https://91dongman.github.io/',
 ];
 var foreverUrls = [
-	  'https://91dongman.net',
+	  'https://top-toon.com',
 	JumpPage,
-	'https://dongmanwang.net',
+	'https://manhua91.com',
 	
 ];
 var notices = [
