@@ -6,3 +6,4 @@ nginx/publish.source.js
 *.log
 .idea/
 .vscode/
+/compose.yaml
